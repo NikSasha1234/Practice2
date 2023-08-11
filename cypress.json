@@ -1,5 +1,5 @@
 {
-  "baseUrl": "",
+  "baseUrl": "https://www.cypress.io/",
   "useRelativeSnapshots": true,
   "ignoreTestFiles": ["*snapshots.js", "*mock.js"],
   "chromeWebSecurity": false,
